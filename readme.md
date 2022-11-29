@@ -15,4 +15,4 @@
 
 ## Uso do vídeo 
 <br>
-<video src="./gravacao.mp4" controls="controls"> Uso do programa</video>
+<img src="./gravacao.gif">
